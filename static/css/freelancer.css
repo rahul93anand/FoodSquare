@@ -264,7 +264,7 @@ section.success a.active {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -274,7 +274,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+
     background: #fff;
 }
 
